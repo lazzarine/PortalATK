@@ -1,0 +1,19 @@
+dispositivo para lpt0: parallel:/dev/null
+dispositivo para lpt1: lpd://lexmarkcpdF035/TEXTO
+dispositivo para lpt11: lpd://zebracartaoF035/zebracartao
+dispositivo para lpt12: lpd://zebrafacaF035/zebrafaca
+dispositivo para lpt13: lpd://zebrastripeF035/zebrastripe
+dispositivo para lpt2: lpd://lexmarkrhF035/TEXTO
+dispositivo para lpt3: lpd://lexmarkrmF035/TEXTO
+dispositivo para lpt4: lpd://lexmarkgerF035/TEXTO
+
+
+10.124.64.21    lexmarkgerF035
+10.124.64.22    lexmarkrmF035
+10.124.64.23    lexmarkrhF035
+10.124.64.24    lexmarknfeF035
+10.124.64.25    zebrastripeF035
+10.124.64.26    zebrafacaF035
+10.124.64.27    zebrafacabkF035
+10.124.64.28    zebracartaoF035
+4
